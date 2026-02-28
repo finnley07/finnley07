@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, ich bin Finnley</h1>
 
----
-
 ### 🚀 Über mich
 Ich bin ein Entwickler mit Fokus auf skalierbare Software und moderne Web-Anwendungen.
 
