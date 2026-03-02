@@ -1,18 +1,16 @@
-<h1 align="center">Hi 👋, ich bin Finnley</h1>
+<h1 align="center">Hi 👋, I'm Finnley</h1>
 
-### 🚀 Über mich
-Ich bin ein Entwickler mit Fokus auf skalierbare Software und moderne Web-Anwendungen.
-
-- 👤 Fullstack-Entwickler aus Deutschland
-- 💻 **Backend:** Experte für **.NET** und C# für robuste Server-Anwendungen.
-- 🌐 **Frontend:** Moderner Webseiten mit **Vue.js** und TypeScript.
-- 🎮 **Gaming:** Entwicklung von **Minecraft Plugins (Spigot)** mit Java.
-
+### 🚀 About Me
+I'm a developer focused on building scalable software and modern web applications.  
+- 👤 Fullstack Developer from Germany
+- 💻 **Backend**: Specialized in **.NET** and **C#** for building robust server-side applications
+- 🌐 **Frontend:** Creating modern web applications using **Vue.js** and **TypeScript**
+- 🎮 **Gaming:** Developing **Minecraft plugins (Spigot)** using Java
 ---
 
-### 📩 Projektanfragen
-Ich bin offen für neue Projekte und Zusammenarbeit! 
-- 📝 **Projekt anfragen:** [Hier geht's zum Google Formular](https://forms.gle/LyTBjoHH3Agpg7ci8)
+### 📩 Project Inquiries
+I'm open to new projects and collaborations!  
+- 📝 **Request a project:** [Fill out the Google Form here](https://forms.gle/LyTBjoHH3Agpg7ci8)
 
 ---
 
